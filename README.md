@@ -11,6 +11,5 @@ It allows users to add, delete, and mark tasks as completed.
 
 ## Technologies
 - Kotlin
-- MVVM Architecture
 - Room Database
 - LiveData & ViewModel
