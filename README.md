@@ -1,4 +1,4 @@
-# ToDoApp ✅
+ ToDoApp ✅
 
 This is a simple To-Do List application built using **Kotlin** and **Android Studio**.  
 It allows users to add, delete, and mark tasks as completed.
