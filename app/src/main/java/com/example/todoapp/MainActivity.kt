@@ -75,7 +75,7 @@ class MainActivity : AppCompatActivity() {
                     true
                 }
                 R.id.nav_profile -> {
-                    // Profil için ileride fragment ekleyeceksin
+
                     true
                 }
                 else -> false
